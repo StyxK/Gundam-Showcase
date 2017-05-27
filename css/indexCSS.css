@@ -67,7 +67,6 @@ body{
     background-size: 10%, cover;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 15px;
-    /*float: ;*/
 }
 #productPic{
     background-color: rgba(255, 255, 255, 0.5);
@@ -81,7 +80,6 @@ body{
     width: 20%;
     height: auto;
     float: left;
-
 }
 #show{
     width: 80%;
@@ -96,7 +94,6 @@ body{
     font-weight: bold;
 
 }
-
 .navBar{
     margin-top:10px;
     margin-bottom: 15px;
